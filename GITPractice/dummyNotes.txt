@@ -1,2 +1,6 @@
-how to stage a single file --- git add "foldername"
+how to stage a single file --- git add foldername
 how to stage multiple files --- git add .
+
+how to commit code after staging --- git commit -m "give the message about commit"
+
+how to check whether staged or committed --- git status 
