@@ -1,0 +1,2 @@
+how to stage a single file --- git add "foldername"
+how to stage multiple files --- git add .
